@@ -1,0 +1,19 @@
+Practical 1
+Using object-oriented methodology, create a Python application that allows a person to manage 
+his monthly budget by entering deposits, withdrawals, money transfers, bill payments, and tax payments, and 
+display detailed information about his income, expenses, and balance. A sample output is as follows. 
+You may add more to make it realistic.
+
+Monthly Budget Summary:
+Date: dd/mm/yyyy
+Income: +Rs.100,000
+Expenses: -Rs. 81,500
+Current Balance: Rs. 19,500
+
+Transactions:
+Deposit: + Rs.100,000
+Withdrawal: - Rs. 25,000
+Transfer to Savings: - Rs. 35,000
+Paid Electricity: - Rs. 6,000
+Paid Water: -Rs. 2500    
+Paid taxes: - Rs. 18,000
